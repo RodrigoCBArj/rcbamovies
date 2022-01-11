@@ -1,0 +1,34 @@
+header {
+    background-color: var(--color-primary);
+    height: 3.75rem;
+    display: flex;
+    align-items: center;
+}
+
+.rcbamovie-nav-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+}
+
+.rcbamovie-nav-content h1{
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: unset;
+}
+
+.rcbamovie-contact-container {
+    display: flex;
+    align-items: center;
+}
+
+.rcbamovie-contact-link {
+    margin: 0 0 0 0.625rem;
+    font-size: 0.85rem;
+}

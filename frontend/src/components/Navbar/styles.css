@@ -5,30 +5,30 @@ header {
     align-items: center;
 }
 
-.rcbamovie-nav-content {
+a, a:hover {
+    text-decoration: none;
+    color: var(--color-text-primary);
+}
+
+.rcbamovies-nav-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: black;
+
 }
 
-.rcbamovie-nav-content h1{
+.rcbamovies-nav-content h1{
     margin: 0;
     font-weight: 700;
     font-size: 1.5rem;
 }
 
-a, a:hover {
-    text-decoration: none;
-    color: unset;
-}
-
-.rcbamovie-contact-container {
+.rcbamovies-contact-container {
     display: flex;
     align-items: center;
 }
 
-.rcbamovie-contact-link {
+.rcbamovies-contact-link {
     margin: 0 0 0 0.625rem;
     font-size: 0.85rem;
 }

@@ -2,7 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
 
 :root {
-  --color-primary: #38b000;
+    --background-primary: #222222;
+    --background-secondary: #333333;
+
+    --color-primary: #38b000;
+    --color-secondary: #70e000;
+    
+    --color-text-primary: #fff;
+    --color-text-secondary: rgb(190, 190, 190);
 }
 
 * {
@@ -10,14 +17,14 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+html, body {
+    background-color: var(--background-primary) !important;
+}
+
 h1 {
     box-sizing: border-box;
     font-family: 'Nunito', sans-serif;
     color: rgb(242, 255, 240);
-}
-
-html, body {
-    background-color: #222222;
 }
 
 a, a:hover {

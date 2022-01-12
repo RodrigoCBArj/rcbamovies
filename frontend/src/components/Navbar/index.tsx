@@ -5,12 +5,12 @@ function Navbar() {
   return (
     <header>
       <nav className="container">
-        <div className="rcbamovie-nav-content">
+        <div className="rcbamovies-nav-content">
           <h1>RCBA Movies</h1>
           <a href="https://github.com/RodrigoCBArj">
-            <div className="rcbamovie-contact-container">
+            <div className="rcbamovies-contact-container">
               <GitHubIcon />
-              <p className="rcbamovie-contact-link">/RodrigoCBArj</p>
+              <p className="rcbamovies-contact-link">/RodrigoCBArj</p>
             </div>
           </a>
         </div>

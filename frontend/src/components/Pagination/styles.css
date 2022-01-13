@@ -1,23 +1,23 @@
-.dsmovie-pagination-container {
+.rcbamovies-pagination-container {
     padding: 15px 0;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.dsmovie-pagination-box {
+.rcbamovies-pagination-box {
     width: 180px;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.dsmovie-pagination-box form {
+.rcbamovies-pagination-box form {
     width: 100%;
     display: flex;
 }
 
-.dsmovie-pagination-button {
+.rcbamovies-pagination-button {
     width: 40px;
     height: 40px;
     border-radius: 4px;
@@ -29,25 +29,25 @@
     cursor: pointer;
 }
 
-.dsmovie-pagination-button svg {
+.rcbamovies-pagination-button svg {
     filter: brightness(0) saturate(100%) invert(71%) sepia(56%) saturate(4652%) hue-rotate(51deg) brightness(115%) contrast(103%);
 }
 
-.dsmovie-pagination-button:disabled {
+.rcbamovies-pagination-button:disabled {
     border: 1px solid #c2c2c2;
     cursor: unset;
 }
 
-.dsmovie-pagination-button:disabled svg {
+.rcbamovies-pagination-button:disabled svg {
     filter: none;
 }
 
-.dsmovie-pagination-container p {
+.rcbamovies-pagination-container p {
     margin: 0;
     font-size: 15px;
     color: var(--color-secondary);
 }
 
-.dsmovie-flip-horizontal {
+.rcbamovies-flip-horizontal {
     transform: rotate(180deg);
 }

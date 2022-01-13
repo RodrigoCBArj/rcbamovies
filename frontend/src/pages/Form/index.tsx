@@ -35,12 +35,12 @@ function Form() {
               </select>
             </div>
             <div className="rcbamovies-form-btn-container">
-              <button type="submit" className="btn btn-primary rcbamovies-btn">
+              <button type="submit" className="rcbamovies-btn">
                 Salvar
               </button>
             </div>
           </form>
-          <button className="btn btn-primary rcbamovies-btn mt-3">
+          <button className="rcbamovies-btn mt-3">
             Cancelar
           </button>
         </div>

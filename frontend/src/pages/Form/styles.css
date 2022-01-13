@@ -46,6 +46,7 @@
 }
 
 .rcbamovies-btn {
+    color: var(--color-text-primary);
     background-color: var(--color-primary);
     border-color: var(--color-secondary);
     font-size: 1.125rem;
@@ -55,4 +56,14 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    user-select: none;
+    border: 1px solid var(--color-secondary);
+    padding: 0.375rem 0.75rem;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }

@@ -17,11 +17,15 @@ a {
 
 }
 
-.rcbamovies-nav-content h1{
+.rcbamovies-nav-content  {
     color: var(--color-text-header);
     margin: 0;
-    font-weight: 700;
     font-size: 1.5rem;
+}
+
+.rcbamovies-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
 }
 
 .rcbamovies-contact-container {

@@ -6,7 +6,7 @@ function Navbar() {
     <header>
       <nav className="container">
         <div className="rcbamovies-nav-content">
-          <h1>RCBA Movies</h1>
+          <a href="/" className="rcbamovies-title">RCBA Movies</a>
           <a href="https://github.com/RodrigoCBArj">
             <div className="rcbamovies-contact-container">
               <GitHubIcon />

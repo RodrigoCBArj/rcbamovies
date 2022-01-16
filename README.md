@@ -14,7 +14,7 @@ O objetivo do projeto é criar uma aplicação para avaliação de filmes utiliz
 - Netlify
 
 ### :pencil2: Design
-https://www.figma.com/file/WJ4Ku4kMJ36ZuFZFeT6YVh/RBCA-Movie?node-id=0%3A1
+https://www.figma.com/file/WJ4Ku4kMJ36ZuFZFeT6YVh/RBCA-Movies?node-id=0%3A1
 
 ### :orange_heart: Agradecimentos
 Agradecimento especial ao [Nelio Alves](https://www.linkedin.com/in/nelio-alves/), professor da DevSuperior, que orquestrou esse excelente curso, do começo ao fim, focando nas principais e mais dificeis partes do desenvolvimento completo de uma aplicação até sua publicação. <3 
